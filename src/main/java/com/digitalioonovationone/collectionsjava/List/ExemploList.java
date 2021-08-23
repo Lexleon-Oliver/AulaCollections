@@ -67,4 +67,9 @@ class ExemploList{
 //        Verifique se a lista está mesmo vazia
         System.out.println("Lista está vazia? "+notas.isEmpty());
     }
+//    Atividades para praticar:
+//    *Resolver os exercicios acima com LinkedList colocando o nome de notas2 e adicione os elementos
+//    do arraylist na notas2.
+//    *Mostre a primeira nota de notas2 sem removê-la.
+//    *Mostre a primeira nota de notas2 removendo-a.
          }
