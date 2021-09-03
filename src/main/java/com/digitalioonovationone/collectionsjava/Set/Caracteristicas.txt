@@ -1,0 +1,12 @@
+#Caracteristicas:
+
+
+  *  Não permite elementos duplicados;
+  *  Não possui índice;
+
+
+  *  HashSet-/-LinkedHashSet-/-TreeSet:
+  Não mantem ordem de Inserção
+
+  "ArrayList deve ser usado onde mais operações de pesquisa são necessárias, e LinkedList deve ser usado onde mais
+  operações de inserção e exclusão são necessárias"
