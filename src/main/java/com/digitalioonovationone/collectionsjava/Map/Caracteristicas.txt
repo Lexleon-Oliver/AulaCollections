@@ -1,0 +1,21 @@
+#Caracteristicas
+
+    *   Possui uma chave para cada valor;
+    *   Pode possuir valores repetidos mas apenas chaves unicas;
+
+
+HashMap
+    * Armazena os valores aleatoriamente
+    * Permite chave nula
+
+
+
+LinkedHashMap
+    * Armazena os valores por ordem de inserção
+    * Permite chave nula
+
+
+
+TreeMap
+    * Armazena os valores por ordem natural
+    * Não permite chave nula
