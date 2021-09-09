@@ -99,5 +99,6 @@ public class ExemploMap {
         System.out.println("Dicionário de carros deletado: "+carrosPopulares);
 //        Verfique se o dicionario está vazio
         System.out.println("Dicionário de carros está vazio? "+carrosPopulares.isEmpty());
+        
     }
 }
