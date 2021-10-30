@@ -1,0 +1,7 @@
+#Caracteristicas:
+
+  *  Permite elementos duplicados e garante ordem de inserção;
+
+
+  "ArrayList deve ser usado onde mais operações de pesquisa são necessárias, e LinkedList deve ser usado onde mais
+  operações de inserção e exclusão são necessárias"
