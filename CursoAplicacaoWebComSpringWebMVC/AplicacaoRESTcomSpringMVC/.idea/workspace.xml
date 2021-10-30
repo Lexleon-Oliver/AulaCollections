@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fa6d50f-e920-46dc-8bc7-9eef1c6e95d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/conteudo/notacoes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebmvc/src/main/java/com/digitalinnovationone/springwebmvc/controller/JediController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebmvc/src/main/java/com/digitalinnovationone/springwebmvc/model/Jedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebmvc/src/main/java/com/digitalinnovationone/springwebmvc/repository/JediRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebmvc/src/main/resources/templates/Jedi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebmvc/src/main/resources/templates/new-jedi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/CollectionsjavaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/List/ExemploList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/List/ExemploOrdenacaoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/List/ExerciciosPropostos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/List/ExerciciosPropostos02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/List/ExerciciosPropostos03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/ComparatorNome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/ComparatorPaginas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/ExemploMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/ExemploMap$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/ExemploMap$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/ExemploMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/ExerciciosPropostos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/ExerciciosPropostos2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/OrdenacaoMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/OrdenacaoMap$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Map/OrdenacaoMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ComparatorAnoNome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ComparatorIDE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ComparatorNomeAnoIde.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ComparatorNomeGeneroDuracao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ExemploOrdenacaoSet$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ExemploOrdenacaoSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ExemploSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ExerciciosPropostos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/ExerciciosPropostos02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/LinguagemFavorita.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/Set/Serie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/StreamsApi/ClasseAnonima.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/StreamsApi/ClasseAnonimaExemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/StreamsApi/ExerciciosStreamAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/StreamsApi/ExpressionLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/StreamsApi/ReferenceMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/com/digitalioonovationone/collectionsjava/StreamsApi/functionalInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/CollectionsjavaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/List/Caracteristicas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/List/ExemploList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/List/ExemploOrdenacaoList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/List/ExerciciosPropostos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/List/ExerciciosPropostos02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/List/ExerciciosPropostos03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Map/Caracteristicas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Map/ExemploMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Map/ExerciciosPropostos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Map/ExerciciosPropostos2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Map/OrdenacaoMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Set/Caracteristicas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Set/ExemploOrdenacaoSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Set/ExemploSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Set/ExerciciosPropostos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/Set/ExerciciosPropostos02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/StreamsApi/ClasseAnonima.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/StreamsApi/ExerciciosStreamAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/StreamsApi/ExpressionLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/digitalioonovationone/collectionsjava/StreamsApi/functionalInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/com/digitalioonovationone/collectionsjava/CollectionsjavaApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20EQwkXrUJm6kMreROlVQHsFFlD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa6d50f-e920-46dc-8bc7-9eef1c6e95d1" name="Changes" comment="" />
+      <created>1635607508850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635607508850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
